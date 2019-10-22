@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "273167998817",
+    "firebase_url": "https://donatingis-5d156.firebaseio.com",
+    "project_id": "donatingis-5d156",
+    "storage_bucket": "donatingis-5d156.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273167998817:android:dbe49314209d89b26b2f20",
+        "android_client_info": {
+          "package_name": "ktu.edu.donatingis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273167998817-qoshj5c4cnagh9je9d9vbn3e5a871aob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ktu.edu.donatingis",
+            "certificate_hash": "f4b266ae3877c00c39579a0267b530e9b6726bfa"
+          }
+        },
+        {
+          "client_id": "273167998817-e1dr88dosjhstslv9vfhjo2hf93dkb8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAetWSsInoe3v6JFA4up-LL_A_uD1dAuB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273167998817-e1dr88dosjhstslv9vfhjo2hf93dkb8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

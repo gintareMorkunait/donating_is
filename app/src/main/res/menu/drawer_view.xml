@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group
+    android:checkableBehavior="single">
+    <item
+        android:title= "Messages"
+        android:id="@+id/nav_messages"
+        android:icon="@drawable/ic_message"
+        />
+    <item
+        android:title= "Search"
+        android:id="@+id/nav_search"
+        android:icon="@drawable/ic_search_black_24dp"
+        />
+    <item
+        android:title= "Places"
+        android:id="@+id/nav_places"
+        android:icon="@drawable/ic_place"
+        />
+    <item
+        android:title= "Profile"
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_person"
+        />
+
+</group>
+</menu>

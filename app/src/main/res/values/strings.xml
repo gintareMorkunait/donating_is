@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DonatingIS</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="bloodtypename">Choose a blood type</string>
+    <string-array name="bloodtypespinner">
+        <item>O-</item>
+        <item>O+</item>
+        <item>A-</item>
+        <item>A+</item>
+        <item>B-</item>
+        <item>B+</item>
+        <item>AB-</item>
+        <item>AB+</item>
+    </string-array>
+</resources>
